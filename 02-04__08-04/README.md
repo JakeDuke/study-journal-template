@@ -4,4 +4,4 @@ Provide an overview for what you did this week:
 * accomplishments
 * new plans
 
-Write this on your weekly review day.
+Write this on your weekly review day. LOL
