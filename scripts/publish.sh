@@ -17,7 +17,7 @@ rm -rf _book
 git add .
 git commit -m 'publishing'
 # publish changes
-git push elewa master
+git push origin master
 
 # to execute this file run this command in terminal:
 # chmod a+x ./publish.sh
