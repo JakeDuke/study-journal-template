@@ -1,7 +1,7 @@
 # Summary
 
 * [My Notes](README.md)
-  * [Week 1]  
+  * Week 1  
     * [Day 1](./02-04__08-04/02-04-2018.md)
 * [Algorithms](./concepts/algorithms.md)
   * [Quiz](./quizzes/algorithms.md)
