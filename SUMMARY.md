@@ -8,10 +8,9 @@
       * [Github](./02-04__08-04/03-04-2018.md)
     * ["Project name"](./02-04__08-04/04-04-2018.md)
   * Week 2  
-* [Algorithms](./concepts/algorithms.md)
-  * [Quiz](./quizzes/algorithms.md)
-* [Git & GitHub](./concepts/git-github.md)
-  * [Quiz](./quizzes/git-github.md)
+* Quizzes
+  * [Algorithms](./quizzes/algorithms.md)
+  * [Git & Github](./quizzes/git-github.md)
 * [Repo](https://github.com/JakeDuke/study-journal-template)
 * [Home (your portfolio)](https://jakeduke.github.io/)
 
