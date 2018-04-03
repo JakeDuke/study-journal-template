@@ -2,13 +2,15 @@
 
 * [My Notes](README.md)
   * Week 1  
-    * [Day 1](./02-04__08-04/02-04-2018.md)
+    * [Git]
+      * [Git Bash](./02-04__08-04/02-04-2018.md)
+      * [Github](./03-04__08-04/02-04-2018.md)
 * [Algorithms](./concepts/algorithms.md)
   * [Quiz](./quizzes/algorithms.md)
 * [Git & GitHub](./concepts/git-github.md)
   * [Quiz](./quizzes/git-github.md)
-* [Repo](https://github.com/elewa-academy/study-journal-template)
-* [Home (your portfolio)](https://elewa-academy.github.io)
+* [Repo](https://github.com/JakeDuke/study-journal-template)
+* [Home (your portfolio)](https://jakeduke.github.io/)
 
 
 ___
