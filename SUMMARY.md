@@ -5,6 +5,7 @@
     * [Git]
       * [Git Bash](./02-04__08-04/02-04-2018.md)
       * [Github](./03-04__08-04/02-04-2018.md)
+      * ['project name']
 * [Algorithms](./concepts/algorithms.md)
   * [Quiz](./quizzes/algorithms.md)
 * [Git & GitHub](./concepts/git-github.md)
