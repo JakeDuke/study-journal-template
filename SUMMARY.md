@@ -2,7 +2,7 @@
 
 * [My Notes](README.md)
   * Week 1  
-    * [Git]
+    * Git
       * [Git Bash](./02-04__08-04/02-04-2018.md)
       * [Github](./02-04__08-04/03-04-2018.md)
     * ["Project name"](./02-04__08-04/04-04-2018.md)
