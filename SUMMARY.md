@@ -1,11 +1,13 @@
 # Summary
 
-* [My Notes](README.md)
+* [Home](README.md)
+* [My Notes]
   * Week 1  
     * Git
       * [Git Bash](./02-04__08-04/02-04-2018.md)
       * [Github](./02-04__08-04/03-04-2018.md)
     * ["Project name"](./02-04__08-04/04-04-2018.md)
+  * Week 2  
 * [Algorithms](./concepts/algorithms.md)
   * [Quiz](./quizzes/algorithms.md)
 * [Git & GitHub](./concepts/git-github.md)
