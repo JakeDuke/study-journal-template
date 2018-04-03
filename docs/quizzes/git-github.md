@@ -15,6 +15,13 @@
         <answer>No</answer>
     </question>
     <question>
+        <p>Git was created by</p>
+        <answer correct>Linus Torvalds</answer>
+        <answer>Guido van Rossum</answer>
+        <answer>Yukihiro Matsumoto</answer>
+        <answer>Bjarne Stroustrup</answer>
+    </question>
+    <question>
         <p>This is multiple dropdown quiz, in each dropdown select a correct number corresponding to the dropdown's order</p>
         <answer>
             <option correct>First</option>
