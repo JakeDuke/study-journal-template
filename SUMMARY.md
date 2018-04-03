@@ -4,6 +4,7 @@
   * Week 1  
     * [Git](./02-04__08-04/02-04-2018.md)
     * [Github](./03-04__08-04/02-04-2018.md)
+    * ["Project name"](./04-04__08-04/02-04-2018.md)
 * [Algorithms](./concepts/algorithms.md)
   * [Quiz](./quizzes/algorithms.md)
 * [Git & GitHub](./concepts/git-github.md)
