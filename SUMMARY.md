@@ -1,7 +1,7 @@
 # Summary
 
 * [Home](README.md)
-* [My Notes]
+* My Notes
   * Week 1  
     * Git
       * [Git Bash](./02-04__08-04/02-04-2018.md)
